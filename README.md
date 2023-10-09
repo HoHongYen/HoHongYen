@@ -63,8 +63,8 @@ Facebook: https://www.facebook.com/hongyen.ho.988
 <!-- GitHub section begin -->
  <h2 align="left">🌻 My GitHub Stats:</h2>
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HoHongYen" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HoHongYen&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=HoHongYen" alt="Gift's LangStat" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HoHongYen&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="300px"/>
 </div>
 
 <!-- More begin -->
