@@ -45,18 +45,22 @@ Here are some ideas to get you started:
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
-- 🍊 My Pronouns: She/Her  
+- 🍊 Pronouns: She/Her  
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
+- ⚡I'm exploring myself.
   
 - :rocket: Always ready to collaborate for Dev Experiments
  
-- ⚡I enjoy spending time alone.
 <!-- About section: END -->
 
 <!-- Connected begin -->
 <h2 align="left">:heart: Let's get connected:</h2>
-Facebook: https://www.facebook.com/hongyen.ho.988
+ <a href="https://www.facebook.com/hongyen.ho.988">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+ </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+ </a>
 <!-- Connected end -->
 
 
@@ -64,14 +68,14 @@ Facebook: https://www.facebook.com/hongyen.ho.988
  <h2 align="left">🌻 My GitHub Stats:</h2>
  <div>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=HoHongYen" alt="Gift's LangStat" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HoHongYen&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="300px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HoHongYen&langs_count=10&show_icons=true&layout=compact&theme=light" alt="Gift's language" height="192px"  width="300px"/>
 </div>
 
 <!-- More begin -->
 <h2 align="left">🍏 Expand to view more:</h2>
 <details> 
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HoHongYen&show_icons=true" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HoHongYen&show_icons=true&theme=cobalt" />
 </details> 
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
