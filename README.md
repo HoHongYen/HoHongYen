@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!-- Profile Views end -->
 
 <!-- Techs and tools begin -->
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="left">:hammer_and_wrench: Technologies and Tools</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -49,26 +49,29 @@ Here are some ideas to get you started:
 <!-- Techs and tools end -->
 
 <!-- About section begin -->
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<!-- <h2 align="left">👨🏻‍💻 About Me:</h2> -->
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
+<!--
 - 🍊 Pronouns: She/Her  
 
 - ⚡I'm exploring myself.
   
 - :rocket: Always ready to collaborate for Dev Experiments
+ -->
  
 <!-- About section: END -->
 
 <!-- Connected begin -->
-<h2 align="left">:heart: Let's get connected:</h2>
+<!-- <h2 align="left">:heart: Let's get connected:</h2>
  <a href="https://www.facebook.com/hongyen.ho.988">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
  </a>
   <a href="">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
  </a>
+-->
 <!-- Connected end -->
 
 
